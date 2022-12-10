@@ -42,5 +42,3 @@ private fun getTo3BiggestSum() {
 
     println(topList.sum())
 }
-
-class Dummy
